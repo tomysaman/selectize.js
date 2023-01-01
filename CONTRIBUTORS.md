@@ -28,5 +28,5 @@ Thank you to our top contributors!
  - @[dpeyou](https://github.com/dpeyou)
  - @[Eric-Guo](https://github.com/Eric-Guo)
  - @[martinmaillard](https://github.com/martinmaillard)
+ - @[meldafert](https://github.com/meldafert)
  - @[mikemaccana](https://github.com/mikemaccana)
- - @[paulkolbovich](https://github.com/paulkolbovich)
